@@ -15,6 +15,10 @@ Este projeto contém a implementação de algoritmos fundamentais em JavaScript,
 
 ## Como executar os testes
 
+<p align="center">
+  <img src="testes.png" width="100%">
+</p>
+
 Para rodar o projeto e validar os algoritmos, siga os passos abaixo:
 
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
