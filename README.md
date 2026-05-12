@@ -16,7 +16,7 @@ Este projeto contém a implementação de algoritmos fundamentais em JavaScript,
 ## Como executar os testes
 
 <p align="center">
-  <img src="2026-05-12 185147.png" width="100%">
+  <img src="teste.png" width="100%">
 </p>
 
 Para rodar o projeto e validar os algoritmos, siga os passos abaixo:
